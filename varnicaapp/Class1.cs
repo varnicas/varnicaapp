@@ -10,6 +10,6 @@ public class Class1
 		//
 		// TODO: Add constructor logic here
 		//
-		Console.WriteLine("objasnia 3 puta");
+		Console.WriteLine("objasnia 3 popravljeno puta");
 	}
 }
