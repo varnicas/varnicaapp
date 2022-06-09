@@ -15,5 +15,6 @@ public class Class1
 		//
 		// TODO: Add constructor logic here
 		//
+		Console.Writeline("objasnia 3 puta");
 	}
 }
