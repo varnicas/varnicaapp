@@ -7,14 +7,9 @@ public class Class1
 {
 	public Class1()
 	{
-        private static void print()
-        {
-
-        }
-
 		//
 		// TODO: Add constructor logic here
 		//
-		Console.Writeline("objasnia 3 puta");
+		Console.WriteLine("objasnia 3 puta");
 	}
 }
